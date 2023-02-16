@@ -2,7 +2,7 @@ from requests_html import HTMLSession, AsyncHTMLSession
 import asyncio
 import time
 
-def get_comment_links(s: HTMLSession, url: str) -> list:
+def get_comment_links(s: HTMLSession, url: str) -> str:
     t1 = time.time()
     r = s.get(url)
     t2 = time.time()
