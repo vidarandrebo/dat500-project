@@ -43,9 +43,15 @@ async def main(links: list) -> list:
     return await asyncio.gather(*tasks)
 
 if __name__ == "__main__":
+    start = time.time()
     url = "https://www.reddit.com/r/stocks/"
     s = HTMLSession()
     urls = get_comment_links(s, url)
+    mid = time.time()
     result = asyncio.run(main(urls))
     with open("results.txt", "w", encoding="utf-8") as file:
         file.write("-----\n".join(result))
+    end = time.time()
+    print(f"\nElapsed (all): {round(end - start)} s")
+    print(f"- Elapsed (get links): {round(mid - start)} s")
+    print(f"- Elapsed (visit links): {round(end - mid)} s")

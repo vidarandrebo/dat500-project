@@ -1,8 +1,7 @@
-Date: Thu Feb 16 18:41:45 2023
-Posted: 3 months ago
-Title: Rate My Portfolio - r/Stocks Quarterly Thread December 2022
+DATE: Thu Feb 16 19:25:14 2023\POSTED: 3 months ago
+TITLE: Rate My Portfolio - r/Stocks Quarterly Thread December 2022
 .t3_z9k0jl._2FCtq-QzlfuN-SwVMUZMM3 { --postTitle-VisitedLinkColor: #afccfb; --postTitleLink-VisitedLinkColor: #afccfb; --postBodyLink-VisitedLinkColor: #989898; }
-Content:
+CONTENT:
 Please use this thread to discuss your portfolio, learn of other stock tickers, and help out users by giving constructive criticism.
 Why quarterly? Public companies report earnings quarterly; many investors take this as an opportunity to rebalance their portfolios. We highly recommend you do some reading: A list of relevant posts & book recommendations.
 You can find stocks on your own by using a scanner like your broker's or Finviz. To help further, here's a list of relevant websites.
@@ -10,13 +9,12 @@ If you don't have a broker yet, see our list of brokers or search old posts. If 
 Be aware of Business Cycle Investing which Fidelity issues updates to the state of global business cycles every 1 to 3 months (note: Fidelity changes their links often, so search for it since their take on it is enlightening). Investopedia's take on the Business Cycle and their video.
 If you need help with a falling stock price, check out Investopedia's The Art of Selling A Losing Position and their list of biases.
 Here's a list of all the previous portfolio stickies.
-End Content
+END CONTENT
 -----
-Date: Thu Feb 16 18:41:44 2023
-Posted: 7 hours ago
-Title: r/Stocks Daily Discussion & Options Trading Thursday - Feb 16, 2023
+DATE: Thu Feb 16 19:25:12 2023\POSTED: 8 hours ago
+TITLE: r/Stocks Daily Discussion & Options Trading Thursday - Feb 16, 2023
 .t3_113njbr._2FCtq-QzlfuN-SwVMUZMM3 { --postTitle-VisitedLinkColor: #afccfb; --postTitleLink-VisitedLinkColor: #afccfb; --postBodyLink-VisitedLinkColor: #989898; }
-Content:
+CONTENT:
 This is the daily discussion, so anything stocks related is fine, but the theme for today is on stock options, but if options aren't your thing then just ignore the theme and/or post your arguments against options here and not in the current post.
 Some helpful day to day links, including news:
 Finviz for charts, fundamentals, and aggregated news on individual stocks
@@ -31,46 +29,56 @@ See the following word cloud and click through for the wiki:
 Call option - Put option - Exercising an option - Strike price - ITM - OTM - ATM - Long options - Short options - Combo - Debit - Credit or Premium - Covered call - Naked - Debit call spread - Credit call spread - Strangle - Iron condor - Vertical debit spreads - Iron Fly
 If you have a basic question, for example "what is delta," then google "investopedia delta" and click the investopedia article on it; do this for everything until you have a more in depth question or just want to share what you learned.
 See our past daily discussions here. Also links for: Technicals Tuesday, Options Trading Thursday, and Fundamentals Friday.
-End Content
+END CONTENT
+-----
+DATE: Thu Feb 16 19:25:12 2023\POSTED: 1 hour ago
+TITLE: YouTube CEO Susan Wojcicki says she’s stepping down
+.t3_113vstq._2FCtq-QzlfuN-SwVMUZMM3 { --postTitle-VisitedLinkColor: #afccfb; --postTitleLink-VisitedLinkColor: #afccfb; --postBodyLink-VisitedLinkColor: #989898; }
+CONTENT:
+https://www.cnbc.com/2023/02/16/youtube-ceo-susan-wojcicki-says-shes-stepping-down.html
+youtube blog: https://blog.youtube/inside-youtube/a-personal-update-from-susan/
+“Today, after nearly 25 years here, I’ve decided to step back from my role as the head of YouTube and start a new chapter focused on my family, health, and personal projects I’m passionate about,” she said.
+Wojcicki joined YouTube as the CEO nine years ago, in 2014.
+She will continue working with YouTube teams, coaching members and meeting with creators, she added.
+Wojcicki said she agreed with Alphabet CEO Sundar Pichai to, in the longer term, take on an advisory role across Google and Alphabet. “This will allow me to call on my different experiences over the years to offer counsel and guidance across Google and the portfolio of Alphabet companies,” she wrote.
+“The time is right for me, and I feel able to do this because we have an incredible leadership team in place at YouTube,” she noted. “When I joined YouTube nine years ago, one of my first priorities was bringing in an incredible leadership team.”
+She said she spent nearly 15 years of her career working with Mohan “first when he came over to Google with the DoubleClick acquisition in 2007 and as his role grew to become SVP of Display and Video Ads.”
+END CONTENT
+-----
+DATE: Thu Feb 16 19:25:12 2023\POSTED: 2 hours ago
+TITLE: Why wouldn't Norfolk Southern Railway Corporations stock plummet after the Toxic Spill ecological disaster they caused?
+.t3_113v4d9._2FCtq-QzlfuN-SwVMUZMM3 { --postTitle-VisitedLinkColor: #afccfb; --postTitleLink-VisitedLinkColor: #afccfb; --postBodyLink-VisitedLinkColor: #989898; }
+CONTENT:
+There is something fundamentally wrong with my understanding of the stock market or there is something wrong with reality being mirrored by the stock market? The stock does not match what is happening. Why only a 6.6% drop since February 3rd?
+This railway company is the cause of one of the biggest environmental disasters in a while. The lawsuit will be many times the companies worth as the cleanup will far surpass it's value. It's in the drinking water, it's in the air, it's in the soil. 30 mile radius. People with ground wells are told to drink bottled water.
+Right now it has been moving in the Ohio river at 1 mile per hour toward the Mississippi River since Tuesday's tracking. Complete disaster and the stock was UP yesterday.
+END CONTENT
 -----
 -----
-Date: Thu Feb 16 18:41:44 2023
-Posted: 4 hours ago
-Title: Producer prices surprise with rise of 0.7% MoM in January; December MoM revised upwards from -0.5% to -0.2%
+DATE: Thu Feb 16 19:25:12 2023\POSTED: 4 hours ago
+TITLE: Producer prices surprise with rise of 0.7% MoM in January; December MoM revised upwards from -0.5% to -0.2%
 .t3_113r6tp._2FCtq-QzlfuN-SwVMUZMM3 { --postTitle-VisitedLinkColor: #afccfb; --postTitleLink-VisitedLinkColor: #afccfb; --postBodyLink-VisitedLinkColor: #989898; }
-Content:
+CONTENT:
 Producer prices for final demand in the US increased 0.7% month-over-month in January of 2023, the most in seven months and higher than market forecasts of 0.4%. Goods prices jumped 1.2%, also the largest increase since rising 2.1% in June 2022, led by a 6.2% surge in gasoline cost. The indexes for residential natural gas, diesel fuel, jet fuel, soft drinks, and motor vehicles also moved higher. Conversely, prices for fresh and dry vegetables decreased 33.5%. The indexes for residual fuels and for basic organic chemicals also declined. Meanwhile, services cost edged 0.4% higher, mainly hospital outpatient care (1.4%). The indexes for automobiles and automobile parts retailing; health, beauty, and optical goods retailing; portfolio management; chemicals and allied products wholesaling; and airline passenger services also moved higher. In contrast, margins for fuels and lubricants retailing fell 17.5%. source: U.S. Bureau of Labor Statistics
 https://tradingeconomics.com/united-states/producer-price-inflation-mom
 Potentially concerning jump in good prices as that is where disinflationary pressure was expected to be coming from. However perhaps understandable in light of gasoline prices
 YoY still showing clear downtrend:
 https://tradingeconomics.com/united-states/producer-prices-change
 Core producer prices will be out on 24.02
-End Content
+END CONTENT
 -----
-Date: Thu Feb 16 18:41:44 2023
-Posted: 51 minutes ago
-Title: Why wouldn't Norfolk Southern Railway Corporations stock plummet after the Toxic Spill ecological disaster they caused?
-.t3_113v4d9._2FCtq-QzlfuN-SwVMUZMM3 { --postTitle-VisitedLinkColor: #afccfb; --postTitleLink-VisitedLinkColor: #afccfb; --postBodyLink-VisitedLinkColor: #989898; }
-Content:
-There is something fundamentally wrong with my understanding of the stock market or there is something wrong with reality being mirrored by the stock market? The stock does not match what is happening. Why only a 6.6% drop since February 3rd?
-This railway company is the cause of one of the biggest environmental disasters in a while. The lawsuit will be many times the companies worth as the cleanup will far surpass it's value. It's in the drinking water, it's in the air, it's in the soil. 30 mile radius. People with ground wells are told to drink bottled water.
-Right now it has been moving in the Ohio river at 1 mile per hour toward the Mississippi River since Tuesday's tracking. Complete disaster and the stock was UP yesterday.
-End Content
------
-Date: Thu Feb 16 18:41:45 2023
-Posted: 1 day ago
-Title: There goes the neighborhood. Reddit aims for IPO this year
+DATE: Thu Feb 16 19:25:13 2023\POSTED: 1 day ago
+TITLE: There goes the neighborhood. Reddit aims for IPO this year
 .t3_112wk4d._2FCtq-QzlfuN-SwVMUZMM3 { --postTitle-VisitedLinkColor: #afccfb; --postTitleLink-VisitedLinkColor: #afccfb; --postBodyLink-VisitedLinkColor: #989898; }
-Content:
+CONTENT:
 Buzz started around an IPO for Reddit a year or two ago. At one point a $10B valuation was discussed. Now it looks like the IPO will likely be moving forward this year. After meta got a boost following earnings have we seen there is appetite for investment in social media companies heavy on ad revenue? Would you invest? Do you think it will ruin the platform?
 https://www.reuters.com/technology/reddit-aims-ipo-second-half-2023-information-2023-02-14/
-End Content
+END CONTENT
 -----
-Date: Thu Feb 16 18:41:45 2023
-Posted: 19 hours ago
-Title: Charlie Munger says BYD is so far ahead of Tesla in China it’s almost ridiculous
+DATE: Thu Feb 16 19:25:13 2023\POSTED: 20 hours ago
+TITLE: Charlie Munger says BYD is so far ahead of Tesla in China it’s almost ridiculous
 .t3_113axql._2FCtq-QzlfuN-SwVMUZMM3 { --postTitle-VisitedLinkColor: #afccfb; --postTitleLink-VisitedLinkColor: #afccfb; --postBodyLink-VisitedLinkColor: #989898; }
-Content:
+CONTENT:
 https://www.cnbc.com/2023/02/15/charlie-munger-says-byd-is-far-ahead-of-tesla-in-china.html
 Charlie Munger said Wednesday that Tesla pales in comparison to BYD in China, calling the Chinese electric vehicle maker his favorite stock ever.
 “I have never helped do anything at Berkshire [Hathaway] that was as good as BYD and I only did it once,” the 99-year-old investor said at the Daily Journal’s virtual annual meeting Wednesday. Berkshire initial investment is now “worth about $8 billion or maybe $9 [billion]. That’s a pretty good rate of return,” said Warren Buffett’s longtime investment partner.
@@ -83,71 +91,61 @@ BYD recently said it expects record adjusted annual profit for 2022 of 16.3 bill
 “BYD last year made more than $2 billion after taxes in the auto business in China. It’s incredible what’s happened,” Munger said. “If you count all the manufacturing space they have in China to make cars, it would amount to a big percentage of the Manhattan island, and nobody had ever heard of them a few years ago.”
 The longtime investor called Tesla CEO Elon Musk talented — and peculiar. He previously said what Musk achieved in the car business was a “minor miracle.”
 “I don’t buy him, and I don’t short him,” Munger said Wednesday.
-End Content
+END CONTENT
 -----
-Date: Thu Feb 16 18:41:44 2023
-Posted: 22 minutes ago
-Title: YouTube CEO Susan Wojcicki says she’s stepping down
-.t3_113vstq._2FCtq-QzlfuN-SwVMUZMM3 { --postTitle-VisitedLinkColor: #afccfb; --postTitleLink-VisitedLinkColor: #afccfb; --postBodyLink-VisitedLinkColor: #989898; }
-Content:
-https://www.cnbc.com/2023/02/16/youtube-ceo-susan-wojcicki-says-shes-stepping-down.html
-youtube blog: https://blog.youtube/inside-youtube/a-personal-update-from-susan/
-“Today, after nearly 25 years here, I’ve decided to step back from my role as the head of YouTube and start a new chapter focused on my family, health, and personal projects I’m passionate about,” she said.
-Wojcicki joined YouTube as the CEO nine years ago, in 2014.
-She will continue working with YouTube teams, coaching members and meeting with creators, she added.
-Wojcicki said she agreed with Alphabet CEO Sundar Pichai to, in the longer term, take on an advisory role across Google and Alphabet. “This will allow me to call on my different experiences over the years to offer counsel and guidance across Google and the portfolio of Alphabet companies,” she wrote.
-“The time is right for me, and I feel able to do this because we have an incredible leadership team in place at YouTube,” she noted. “When I joined YouTube nine years ago, one of my first priorities was bringing in an incredible leadership team.”
-She said she spent nearly 15 years of her career working with Mohan “first when he came over to Google with the DoubleClick acquisition in 2007 and as his role grew to become SVP of Display and Video Ads.”
-End Content
------
-Date: Thu Feb 16 18:41:44 2023
-Posted: 10 hours ago
-Title: What recession? FED Q1 GDP growth estimate now at 2.4%,Household debt lowest in last 20 years. Goodbye bear market?
+DATE: Thu Feb 16 19:25:12 2023\POSTED: 11 hours ago
+TITLE: What recession? FED Q1 GDP growth estimate now at 2.4%,Household debt lowest in last 20 years. Goodbye bear market?
 .t3_113l5mv._2FCtq-QzlfuN-SwVMUZMM3 { --postTitle-VisitedLinkColor: #afccfb; --postTitleLink-VisitedLinkColor: #afccfb; --postBodyLink-VisitedLinkColor: #989898; }
-Content:
+CONTENT:
 Atlanta FED now estimate 2.4% growth in Q1 '23.What recession😅
 https://www.atlantafed.org/cqer/research/gdpnow
 Houshold debt to GDP is lowest in last 20 years https://fred.stlouisfed.org/series/HDTGPDUSQ163N
 Unemployment is still lowest in last 50 years. Economy is so strong its nearly impossible for stocks to test bottom again especially considering last year at one point we went almost 30% down..
 Earnings are still quite decent, people spending like crazy, inflation went down a lot for last few months. Even JPOW said Jan a bit hotter inflation was expected.
 Are we safe to say bear market is over? What is your opinion?
-End Content
+END CONTENT
 -----
 -----
-Date: Thu Feb 16 18:41:43 2023
-Posted: 6 hours ago
-Title: A good time to sell NVIDIA?
+DATE: Thu Feb 16 19:25:11 2023\POSTED: 7 hours ago
+TITLE: A good time to sell NVIDIA?
 .t3_113or5x._2FCtq-QzlfuN-SwVMUZMM3 { --postTitle-VisitedLinkColor: #afccfb; --postTitleLink-VisitedLinkColor: #afccfb; --postBodyLink-VisitedLinkColor: #989898; }
-Content:
+CONTENT:
 NVIDIA is an exciting stock these days. Some people say it is overvalued right now, other people still buy shares. What's your assessment regarding an exit stop for NVIDIA?
 I'm +37% right now and thinking about selling my shares.
-End Content
+END CONTENT
 -----
-Date: Thu Feb 16 18:41:44 2023
-Posted: 20 hours ago
-Title: Roku Stock Surges 25% On Growth In New Users In Holiday Quarter
+-----
+DATE: Thu Feb 16 19:25:12 2023\POSTED: 3 hours ago
+TITLE: If you believe that data is the most valuable aspect of the economy , which stock(s) would you buy?
+.t3_113t3bq._2FCtq-QzlfuN-SwVMUZMM3 { --postTitle-VisitedLinkColor: #afccfb; --postTitleLink-VisitedLinkColor: #afccfb; --postBodyLink-VisitedLinkColor: #989898; }
+CONTENT:
+Curious what some of the top plays would be, could be something as obvious as a big tech name or something you wouldn’t think of like a retail store or grocery store that data harvests it’s reward system
+END CONTENT
+-----
+-----
+DATE: Thu Feb 16 19:25:13 2023\POSTED: 30 minutes ago
+TITLE: advice on using my money to earn more money. (bills, bonds, treasuries, cds, dividends, VOO?)
+.t3_113wmlh._2FCtq-QzlfuN-SwVMUZMM3 { --postTitle-VisitedLinkColor: #afccfb; --postTitleLink-VisitedLinkColor: #afccfb; --postBodyLink-VisitedLinkColor: #989898; }
+CONTENT:
+If someone had $100k just sitting in a bank account, how would you advise them to let that money work for them considering they have very limited knowledge of investing? -get a financial planner or advisor of some sort? -use the money to purchase dividends instead of sitting in the bank account?
+or would you use it for the bills treasuries and such for the easy 4-6%?
+Or invest in real estate? The money was originally going to be used to buy property at auction, but it's ended up just sitting. Auctions have been terrible since the pandemic.
+END CONTENT
+-----
+-----
+DATE: Thu Feb 16 19:25:14 2023\POSTED: 21 hours ago
+TITLE: Roku Stock Surges 25% On Growth In New Users In Holiday Quarter
 .t3_11391ig._2FCtq-QzlfuN-SwVMUZMM3 { --postTitle-VisitedLinkColor: #afccfb; --postTitleLink-VisitedLinkColor: #afccfb; --postBodyLink-VisitedLinkColor: #989898; }
-Content:
+CONTENT:
 The San Jose, Calif.-based company added 4.6 million new active accounts in the holiday quarter, bringing its total to 70 million. Analysts had expected 3.04 million new users in the period.
 However, Roku lost $1.70 a share on sales of $867 million in the fourth quarter amid a difficult advertising climate. Analysts had predicted Roku would lose $1.72 a share on sales of $803 million in the December quarter. In the year-earlier period, Roku earned 17 cents a share on sales of $865 million.
 In after-hours trading on the stock market today, Roku stock surged 11.2% to 70.62. During the regular session Wednesday, Roku stock rocketed 12.1% to close at 63.49.
-End Content
+END CONTENT
 -----
------
-Date: Thu Feb 16 18:41:45 2023
-Posted: 2 hours ago
-Title: If you believe that data is the most valuable aspect of the economy , which stock(s) would you buy?
-.t3_113t3bq._2FCtq-QzlfuN-SwVMUZMM3 { --postTitle-VisitedLinkColor: #afccfb; --postTitleLink-VisitedLinkColor: #afccfb; --postBodyLink-VisitedLinkColor: #989898; }
-Content:
-Curious what some of the top plays would be, could be something as obvious as a big tech name or something you wouldn’t think of like a retail store or grocery store that data harvests it’s reward system
-End Content
------
------
-Date: Thu Feb 16 18:41:45 2023
-Posted: 2 hours ago
-Title: DDOG: Why would a company consistently sandbag guidance?
+DATE: Thu Feb 16 19:25:13 2023\POSTED: 3 hours ago
+TITLE: DDOG: Why would a company consistently sandbag guidance?
 .t3_113swrm._2FCtq-QzlfuN-SwVMUZMM3 { --postTitle-VisitedLinkColor: #afccfb; --postTitleLink-VisitedLinkColor: #afccfb; --postBodyLink-VisitedLinkColor: #989898; }
-Content:
+CONTENT:
 So DDOG reported earnings this morning. On initial report stock dropped 10% on what I assume was weak guidance(Forecasting Q1'23 would be flat to Q4'22). And lower than expected guidance for FY 2023. The problem is, they always do this. I started researching this after it dropped 10%, it seems to have rebounded a fair bit as of typing this post, but wanted to share results anyway.
 
 
@@ -261,13 +259,26 @@ My questions is, is there a reason for this? With so much stock swings at ER bei
 
 
 They are listing these guidance with the quarters over half done.
-End Content
+END CONTENT
 -----
-Date: Thu Feb 16 18:41:45 2023
-Posted: 4 hours ago
-Title: (2/16) Thursday's Pre-Market Stock Movers & News
+DATE: Thu Feb 16 19:25:14 2023\POSTED: 3 months ago
+TITLE: Rate My Portfolio - r/Stocks Quarterly Thread December 2022
+.t3_z9k0jl._2FCtq-QzlfuN-SwVMUZMM3 { --postTitle-VisitedLinkColor: #afccfb; --postTitleLink-VisitedLinkColor: #afccfb; --postBodyLink-VisitedLinkColor: #989898; }
+CONTENT:
+https://www.cnbc.com/2023/02/16/youtube-ceo-susan-wojcicki-says-shes-stepping-down.html
+youtube blog: https://blog.youtube/inside-youtube/a-personal-update-from-susan/
+“Today, after nearly 25 years here, I’ve decided to step back from my role as the head of YouTube and start a new chapter focused on my family, health, and personal projects I’m passionate about,” she said.
+Wojcicki joined YouTube as the CEO nine years ago, in 2014.
+She will continue working with YouTube teams, coaching members and meeting with creators, she added.
+Wojcicki said she agreed with Alphabet CEO Sundar Pichai to, in the longer term, take on an advisory role across Google and Alphabet. “This will allow me to call on my different experiences over the years to offer counsel and guidance across Google and the portfolio of Alphabet companies,” she wrote.
+“The time is right for me, and I feel able to do this because we have an incredible leadership team in place at YouTube,” she noted. “When I joined YouTube nine years ago, one of my first priorities was bringing in an incredible leadership team.”
+She said she spent nearly 15 years of her career working with Mohan “first when he came over to Google with the DoubleClick acquisition in 2007 and as his role grew to become SVP of Display and Video Ads.”
+END CONTENT
+-----
+DATE: Thu Feb 16 19:25:14 2023\POSTED: 5 hours ago
+TITLE: (2/16) Thursday's Pre-Market Stock Movers & News
 .t3_113r5m0._2FCtq-QzlfuN-SwVMUZMM3 { --postTitle-VisitedLinkColor: #afccfb; --postTitleLink-VisitedLinkColor: #afccfb; --postBodyLink-VisitedLinkColor: #989898; }
-Content:
+CONTENT:
 Good morning traders and investors of the r/stocks sub! Welcome to Thursday! Here are your pre-market stock movers & news on this Thursday, February the 16th, 2023-
 Dow futures slide 150 points after another hot inflation report: Live updates
 Stock futures fell Thursday as traders digest another hot inflation report along with jobless claims showing the economy is holding up amid the Federal Reserve’s rate hikes.
@@ -328,109 +339,90 @@ FULL DISCLOSURE:
 DISCUSS!
 What's on everyone's radar for today's trading day ahead here at r/stocks?
 I hope you all have an excellent trading day ahead today on this Thursday, February 16th, 2023! :)
-End Content
+END CONTENT
 -----
-Date: Thu Feb 16 18:41:47 2023
-Posted: 3 months ago
-Title: Rate My Portfolio - r/Stocks Quarterly Thread December 2022
-.t3_z9k0jl._2FCtq-QzlfuN-SwVMUZMM3 { --postTitle-VisitedLinkColor: #afccfb; --postTitleLink-VisitedLinkColor: #afccfb; --postBodyLink-VisitedLinkColor: #989898; }
-Content:
-Producer prices for final demand in the US increased 0.7% month-over-month in January of 2023, the most in seven months and higher than market forecasts of 0.4%. Goods prices jumped 1.2%, also the largest increase since rising 2.1% in June 2022, led by a 6.2% surge in gasoline cost. The indexes for residential natural gas, diesel fuel, jet fuel, soft drinks, and motor vehicles also moved higher. Conversely, prices for fresh and dry vegetables decreased 33.5%. The indexes for residual fuels and for basic organic chemicals also declined. Meanwhile, services cost edged 0.4% higher, mainly hospital outpatient care (1.4%). The indexes for automobiles and automobile parts retailing; health, beauty, and optical goods retailing; portfolio management; chemicals and allied products wholesaling; and airline passenger services also moved higher. In contrast, margins for fuels and lubricants retailing fell 17.5%. source: U.S. Bureau of Labor Statistics
-https://tradingeconomics.com/united-states/producer-price-inflation-mom
-Potentially concerning jump in good prices as that is where disinflationary pressure was expected to be coming from. However perhaps understandable in light of gasoline prices
-YoY still showing clear downtrend:
-https://tradingeconomics.com/united-states/producer-prices-change
-Core producer prices will be out on 24.02
-End Content
------
-Date: Thu Feb 16 18:41:45 2023
-Posted: 2 hours ago
-Title: Are capital gains tax based on total investment or the withdrawn amount?
+DATE: Thu Feb 16 19:25:13 2023\POSTED: 2 hours ago
+TITLE: Are capital gains tax based on total investment or the withdrawn amount?
 .t3_113tztx._2FCtq-QzlfuN-SwVMUZMM3 { --postTitle-VisitedLinkColor: #afccfb; --postTitleLink-VisitedLinkColor: #afccfb; --postBodyLink-VisitedLinkColor: #989898; }
-Content:
+CONTENT:
 Sorry if this question has been asked before, I tried searching for an answer but maybe I am not phrasing it the best that I can. So say I had 500k invested into an index fund and it was growing at 7% annually. If I take 3.5% of my earnings would I be paying taxes on the full gain of $35000 or only the amount I took out which is $17500? And if the former is the case how would it work if I'm constantly doing this every month/year?
-End Content
+END CONTENT
 -----
 -----
-Date: Thu Feb 16 18:41:46 2023
-Posted: 13 hours ago
-Title: Alibaba Stock
+DATE: Thu Feb 16 19:25:14 2023\POSTED: 14 hours ago
+TITLE: Alibaba Stock
 .t3_113hwg2._2FCtq-QzlfuN-SwVMUZMM3 { --postTitle-VisitedLinkColor: #afccfb; --postTitleLink-VisitedLinkColor: #afccfb; --postBodyLink-VisitedLinkColor: #989898; }
-Content:
+CONTENT:
 Worth putting a small position into Baba now?
 Their profit and revenue has doubled in the last 5 years. Anyone know why they’re going down? Is it cause of fear of China or is there another reason?
 Return on Invested Capital - 20-23% Return on Assets - 16-19% $ 18 billion in Cash
 Short term Assets - $65 Billion Total Assets - $161 Billion
 Short term Liabilities - $30 billion Total Liability - $65 billion
 They also have a ton of potential with theChkense market as well as the markets in South east Asia. Is there smth that I’m missin? Thanks
-End Content
+END CONTENT
 -----
 -----
-Date: Thu Feb 16 18:41:46 2023
-Posted: 7 minutes ago
-Title: need help about Amazon stocks
+DATE: Thu Feb 16 19:25:13 2023\POSTED: 50 minutes ago
+TITLE: need help about Amazon stocks
 .t3_113w5u8._2FCtq-QzlfuN-SwVMUZMM3 { --postTitle-VisitedLinkColor: #afccfb; --postTitleLink-VisitedLinkColor: #afccfb; --postBodyLink-VisitedLinkColor: #989898; }
-Content:
+CONTENT:
 Hey reddit, I'm posting this here in hopes someone could point me in the right direction, and hopefully I'm not crazy.
 My mom and dad are divorced (in 2013), but during the time of 1998/1999 she saved up the money to buy $6000 in Amazon stocks. I know that there was a depreciation in stocks, so when questioned my father claimed that "we lost it all", but I know that Amazon's stocks quickly appreciated and that people made a lot of money if they had stuck with them during those years, and now Amazon is a multi-million dollar company. Trouble is, my mom doesn't have access to the joint bank account where she made the wire transfer, but she swears she made the purchase. How should she go about looking into this? I don't fully trust my father, since he's also an alcoholic and quite a manipulative person. However, he's never been a stock expert either, and we barely have contact.. am I crazy for thinking there's something to this?
-End Content
------
-Date: Thu Feb 16 18:41:46 2023
-Posted: 16 hours ago
-Title: commercial real estate trouble brewing?
-.t3_113ead2._2FCtq-QzlfuN-SwVMUZMM3 { --postTitle-VisitedLinkColor: #afccfb; --postTitleLink-VisitedLinkColor: #afccfb; --postBodyLink-VisitedLinkColor: #989898; }
-Content:
-A lot of us have been saying commercial real estate will be in trouble
-It might be happening already.
-
-
-https://fortune.com/2023/02/14/remote-work-los-angeles-office-building-default-brookfield/
-
-
-" One of the biggest landlords in Los Angeles just defaulted on $755 million in loans for two sky scrapers as remote work keeps offices vacant"
-" Brookfield Corp., parent of the largest office landlord in downtown Los Angeles, is defaulting on loans tied to two buildings rather than refinancing the debt as demand for space weakens in the center of the second-largest US city.
-The two properties in default, part of a portfolio called Brookfield DTLA Fund Office Trust Investor, are the Gas Company Tower, with $465 million in loans, and the 777 Tower, with about $290 million in debt, according to a filing. The fund manager had warned in November that it may face foreclosure on properties.
-The company had the option to extend the maturity on the loans tied to the Gas Company Tower, but elected not to, according to its latest filing. It also elected not to get interest-rate protection that was required for loans for the 777 Tower property, which amounts to an event of default, the filing said.
-“We believe DTLA’s decision to default on these two assets increases the risk for the remaining loans in their portfolio,” Barclays Plc research analysts Lea Overby and Anuj Jain wrote in a note Tuesday."
-End Content
+END CONTENT
 -----
 -----
-Date: Thu Feb 16 18:41:46 2023
-Posted: 20 hours ago
-Title: Cisco blows away expectations with high revenues, Announces dividend increase, increases FY23 growth forecast with strong guidance
+DATE: Thu Feb 16 19:25:14 2023\POSTED: 8 minutes ago
+TITLE: WM waste management deep dive dd
+.t3_113x5if._2FCtq-QzlfuN-SwVMUZMM3 { --postTitle-VisitedLinkColor: #afccfb; --postTitleLink-VisitedLinkColor: #afccfb; --postBodyLink-VisitedLinkColor: #989898; }
+CONTENT:
+Just cancelled my recycling can't afford it. How much longer can they squeeze the shit out
+If you don't know Waste Management, Inc., doing business as WM, is a waste management, comprehensive waste, and environmental services company operating in North America. Founded in 1968, the company is headquartered in the Bank of America Tower in Houston, Texas. Wikipedia
+END CONTENT
+-----
+DATE: Thu Feb 16 19:25:14 2023\POSTED: 22 minutes ago
+TITLE: Is there any point investing in AMZN anymore?
+.t3_113wtv0._2FCtq-QzlfuN-SwVMUZMM3 { --postTitle-VisitedLinkColor: #afccfb; --postTitleLink-VisitedLinkColor: #afccfb; --postBodyLink-VisitedLinkColor: #989898; }
+CONTENT:
+E-commerce has not been profitable for years and perhaps won’t be
+Companies are trying to reduce AWS costs across the globe
+Their experimental products like Alexa services are a flop
+They have hands in too many jars and don’t know what to do with most of those.
+Why would anyone still choose to invest in AMZN?
+END CONTENT
+-----
+DATE: Thu Feb 16 19:25:14 2023\POSTED: 21 hours ago
+TITLE: Cisco blows away expectations with high revenues, Announces dividend increase, increases FY23 growth forecast with strong guidance
 .t3_1139ma5._2FCtq-QzlfuN-SwVMUZMM3 { --postTitle-VisitedLinkColor: #afccfb; --postTitleLink-VisitedLinkColor: #afccfb; --postBodyLink-VisitedLinkColor: #989898; }
-Content:
+CONTENT:
 https://www.marketwatch.com/story/cisco-stock-spikes-after-earnings-and-revenue-beat-annual-forecast-raised-d7cf6ea3?siteid=yhoof2
 $13.6 billion in revenue, up 7% year over year; GAAP EPS $0.67, down 6% year over year, and Non-GAAP EPS $0.88, up 5% year over year
 Continued progress on business model transformation:
 Dividend increased 3%
 Executives also sharply increased their revenue guidance for the fiscal year, now saying that they expect revenue growth of 9% to 10.5%, after stating 4.5% to 6.5% growth just three months ago. They also increased adjusted-earnings guidance for the fiscal year to $3.73 to $3.78 a share from a previous range of $3.51 to $3.58 a share.
-End Content
+END CONTENT
 -----
-Date: Thu Feb 16 18:41:46 2023
-Posted: 1 day ago
-Title: Retail sales jump 3% in January, smashing expectations despite inflation increase
+-----
+DATE: Thu Feb 16 19:25:14 2023\POSTED: 1 day ago
+TITLE: Retail sales jump 3% in January, smashing expectations despite inflation increase
 .t3_112y93k._2FCtq-QzlfuN-SwVMUZMM3 { --postTitle-VisitedLinkColor: #afccfb; --postTitleLink-VisitedLinkColor: #afccfb; --postBodyLink-VisitedLinkColor: #989898; }
-Content:
+CONTENT:
 https://www.cnbc.com/2023/02/15/retail-sales-january-2023-.html
 Sales at retailers rose far more than expected in January as consumers persevered despite rising inflation pressures.
 Advance retail sales for the month increased 3%, compared to expectations for a rise of 1.9%, the Commerce Department reported Wednesday. Excluding autos, sales increased 2.3%, according to the report, which is not adjusted for inflation. The ex-autos estimate was for a gain of 0.9%.
-End Content
+END CONTENT
 -----
-Date: Thu Feb 16 18:41:46 2023
-Posted: 27 minutes ago
-Title: Rise of the Producer prices but not of the treasury yields
+DATE: Thu Feb 16 19:25:15 2023\POSTED: 1 hour ago
+TITLE: Rise of the Producer prices but not of the treasury yields
 .t3_113volr._2FCtq-QzlfuN-SwVMUZMM3 { --postTitle-VisitedLinkColor: #afccfb; --postTitleLink-VisitedLinkColor: #afccfb; --postBodyLink-VisitedLinkColor: #989898; }
-Content:
+CONTENT:
 I suppose the rise of the PPI as well as the speech of Fed Mester shall mean more FED hikes and therefore result in fall of the stocks market, as well as the speech
 But the stocks market is not falling down. Maybe one of the reasons why the stock market is not falling is because the 2year yield has not risen today on this news? If that is the case, than why does the 2 year yield dos not rise on this bad news today?
-End Content
+END CONTENT
 -----
-Date: Thu Feb 16 18:41:47 2023
-Posted: 1 day ago
-Title: Roblox stock up 24% after fourth-quarter earnings report beats estimates
+DATE: Thu Feb 16 19:25:15 2023\POSTED: 1 day ago
+TITLE: Roblox stock up 24% after fourth-quarter earnings report beats estimates
 .t3_1130x7c._2FCtq-QzlfuN-SwVMUZMM3 { --postTitle-VisitedLinkColor: #afccfb; --postTitleLink-VisitedLinkColor: #afccfb; --postBodyLink-VisitedLinkColor: #989898; }
-Content:
+CONTENT:
 https://www.cnbc.com/2023/02/15/roblox-rblx-earnings-q4-2022.html
 Shares of Roblox popped 24% Wednesday after the company reported fourth-quarter earnings that beat analysts’ expectations on top and bottom lines.
 Here’s how the company did:
@@ -440,63 +432,32 @@ The revenue figure is what Roblox calls bookings, which include sales recognized
 Roblox reported 58.8 million average daily active users, up 19% from a year earlier. Users spent more than 12.8 billion hours engaged in Roblox during the fourth quarter, up 18% year over year.
 The company said average bookings per daily active user was $15.29, down 2% year over year.
 Roblox saw bookings swell more than 200% during the pandemic when kids were spending more time on their screens while stuck at home. The stock was blazing hot in 2021, after Roblox’s direct listing in March. Its market cap neared $80 billion before peaking in November 2021.
-End Content
+END CONTENT
 -----
-Date: Thu Feb 16 18:41:46 2023
-Posted: 58 minutes ago
-Title: Capital gain/loss tax
+DATE: Thu Feb 16 19:25:14 2023\POSTED: 2 hours ago
+TITLE: Capital gain/loss tax
 .t3_113uyon._2FCtq-QzlfuN-SwVMUZMM3 { --postTitle-VisitedLinkColor: #afccfb; --postTitleLink-VisitedLinkColor: #afccfb; --postBodyLink-VisitedLinkColor: #989898; }
-Content:
+CONTENT:
 Hi all. A few questions about stock gain and taxes. I had considerable gains in 2020-2021 ($500K) and paid the taxes I owed. In 2022, my loss was around $200 K, and my wife had gains of $70K in 2022 (lol). We file our taxes as married jointly. My questions are:
 Will my loss offset her gains, so we don't have to pay any taxes on her gains?
 What happens next year? - if there is a net profit of 100K next year, can I use the remaining losses to offset the gains of 100K?
 Please let me know. Thanks a lot.
-End Content
+END CONTENT
 -----
 -----
-Date: Thu Feb 16 18:41:48 2023
-Posted: 20 hours ago
-Title: Nvidia: Don't Buy The AI Hype Pre-Earnings
+DATE: Thu Feb 16 19:25:15 2023\POSTED: 21 hours ago
+TITLE: Nvidia: Don't Buy The AI Hype Pre-Earnings
 .t3_11394ar._2FCtq-QzlfuN-SwVMUZMM3 { --postTitle-VisitedLinkColor: #afccfb; --postTitleLink-VisitedLinkColor: #afccfb; --postBodyLink-VisitedLinkColor: #989898; }
-Content:
+CONTENT:
 After reaching a valuation of more than $800 billion in late 2021, Nvidia (NASDAQ:NVDA) shares fell sharply -- intermittently by as 70% from the all-time high. With that frame of reference, Nvidia's fundamentals were pressured by a slowdown in gaming, crypto-mining and the broader personal computer market. However, on the backdrop of the ChatGPT tailwind, NVDA stock has started to rebound aggressively, reflecting investor optimism about the potential of generative AI technology.
 While I acknowledge the tailwind that Nvidia is likely to see from AI computing, I also argue that the thesis remains speculative, given the early stages of the technology. Moreover, investors should consider that the market is already pricing lots of optimism--with NVDA shares valued at a FWD EV/EBIT of close to x60.
 Nvidia is scheduled to report Q4 2022 earnings on February 22nd, and I assign a 'Hold' rating pre-announcement.
-End Content
+END CONTENT
 -----
------
-Date: Thu Feb 16 18:41:47 2023
-Posted: 1 day ago
-Title: Best long term stocks to invest in?
+DATE: Thu Feb 16 19:25:16 2023\POSTED: 1 day ago
+TITLE: Best long term stocks to invest in?
 .t3_1130wmg._2FCtq-QzlfuN-SwVMUZMM3 { --postTitle-VisitedLinkColor: #afccfb; --postTitleLink-VisitedLinkColor: #afccfb; --postBodyLink-VisitedLinkColor: #989898; }
-Content:
+CONTENT:
 Hello I’m a 16 year old kid who barely knows anything about stocks I currently have $60 in Tesla and 60 in Microsoft and 30 in VOO, I have another $50 to invest and am wondering which stock to put it in? I have a recurring payment of $5 a day going into VOO, I just want to make my parents proud in the future and I want to learn more about stocks i just want to know here to invest my $50 in. Thank you for feedback if you decide to!
-End Content
+END CONTENT
 -----
-Date: Thu Feb 16 18:41:47 2023
-Posted: 5 hours ago
-Title: ETF with no pre/post market info
-.t3_113pt03._2FCtq-QzlfuN-SwVMUZMM3 { --postTitle-VisitedLinkColor: #afccfb; --postTitleLink-VisitedLinkColor: #afccfb; --postBodyLink-VisitedLinkColor: #989898; }
-Content:
-Looking at IJR and RWJ or VIS, they are pretty big ETF esp IJR but has no pre/after market information both on Nasdaq website or Google. Do they trade pre and after marker? If yes where do I see these information
-End Content
------
------
-Date: Thu Feb 16 18:41:47 2023
-Posted: 15 hours ago
-Title: Options for Investing Inheritance
-.t3_113fyjs._2FCtq-QzlfuN-SwVMUZMM3 { --postTitle-VisitedLinkColor: #afccfb; --postTitleLink-VisitedLinkColor: #afccfb; --postBodyLink-VisitedLinkColor: #989898; }
-Content:
-So my fiancé a few years ago received an inheritance from a family member. Currently the total is about 100k with about 1/3 invested in S&P, 1/3 in a dividend etf, and 1/3 in a stable market fund (currently returning about 4.65%). The stable fund is more so we can buy a house one day, at least use some of it as a down payment. I’m 32 and she is 28, so both still fairly young. We both make ok money, about $100,000 a year combined and live in a city in the US Southeast so pretty low cost of living. We will continue to put money in the account; however, I’m not sure if we’ll ever on our own make enough to massively pump the account so I want what we are starting with to help do a lot of the heavy lifting. So my question is if you were in our situation would you A) use a large portion of this in dividend stocks/etf, let it reinvest dividends, and then the new money we put in invest it in everything else in our portfolio and just let this grow off earnings alone (logic being this would help supplement how much we’re able to contribute each year) B) Invest in something with a higher risk reward (nothing like Bitcoin, but maybe a growth etf once this silliness in the market is over) C) Split it between Nasdaq, S&P, and Dow, D) anything you can think of. Again this is just dealing with about 30k for this investment, and not the entire 100k.
-End Content
------
------
-Date: Thu Feb 16 18:41:48 2023
-Posted: 15 hours ago
-Title: What advice would you give someone who wants to invest everything in just TQQQ?
-.t3_113fm89._2FCtq-QzlfuN-SwVMUZMM3 { --postTitle-VisitedLinkColor: #afccfb; --postTitleLink-VisitedLinkColor: #afccfb; --postBodyLink-VisitedLinkColor: #989898; }
-Content:
-As the stock geek in the friend circle of people who work in the tech sector, psychology, IT, etc (which I work in none of those fields btw just all of my friends do) I had a recent meet up with a few of these friends and they asked me how my portfolio was doing so far this last 2 years. I explained pretty good, because I got lucky with timing on leveraged ETFs. I made some money investing in SQQQ in 2022 (30% gain) because I knew the party of 2020/2021 was coming to an end. I also invested in OILU in 2022 in February because I knew oil was going to jump for months.
-One of my closer friends asked me about TQQQ. More specifically what would happen to a person's money (investment) if they invested $25k just in TQQQ today and did not touch their investment for many years. At first I answered "that is like betting all on red at the roulette wheel". Then I did the math again in my head and realized the only way a person could loose all of their money would be if in the future we had a day where the stock market dropped at least 33.3% in one day (since TQQQ is 3X leveraged). This is not possible because the circuit breakers would kick in at 7%, then again at 13%, then again at 20% (I believe after 20% the market would just close for that day). Also keep in mind TQQQ has rebalancing and decay.
-After giving it more thought I told my friend I would get back to him. He is adamant that we are near the market bottom, and even thinks we hit bottom late last year and that it would be good for a person in their early 30s to invest $25k in just TQQQ and not touch the funds for decades. I advised him to never invest in just one thing with that amount of money. It would be common sense to throw money in VOO, QQQ and maybe at most 15% of your portfolio in TQQQ. I would say it would be wiser to swing trade SQQQ and TQQQ but it would take a few hours each week to time things correctly - it would be easier mentally to just invest in TQQQ and leave it - if you can stomach the rollercoaster.
-End Content
