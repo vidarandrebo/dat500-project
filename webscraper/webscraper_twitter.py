@@ -15,7 +15,12 @@ def get_comment_links(s: HTMLSession, url: str) -> list:
     print(f"t3-t2: {round(t3 - t2)} s")
     print(f"t4-t3: {round(t4 - t3)} s")
 
-    return [tweet.text for tweet in tweets]
+    scraped_time = str(time.ctime(time.time()))
+    result = ["SCRAPED" + scraped_time]
+    t = [tweet.text for tweet in tweets]
+    result.extend(t)
+    result.append("END SCRAPED:" + scraped_time)
+    return result
 
 
 if __name__ == "__main__":
