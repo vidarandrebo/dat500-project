@@ -1,6 +1,7 @@
 import schedule
 import time
 from scrapers import webscraper_reddit, webscraper_twitter, webscraper_finansavisen, webscraper_cnbc, webscraper_dn, webscraper_fnlondon, webscraper_ft
+import os
 
 schedule.every().day.at("00:00").do(webscraper_reddit.scrape_reddit)
 schedule.every().day.at("01:00").do(webscraper_dn.scrape_dn)

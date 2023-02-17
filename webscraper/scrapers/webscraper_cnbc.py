@@ -79,7 +79,7 @@ def scrape_cnbc():
         urls.extend(get_latest_news(s, url2))
         mid = time.time()
         result = asyncio.run(main(urls))
-        file_path = f"./webscraper/files/cnbc_results{str(round(time.time()))}.txt"
+        file_path = f"./files/cnbc_results{str(round(time.time()))}.txt"
         with open(file_path, "w", encoding="utf-8") as file:
             file.write("-----\n".join(result))
         end = time.time()

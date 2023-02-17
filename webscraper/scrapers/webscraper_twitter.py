@@ -29,7 +29,7 @@ def scrape_twitter():
         url = "https://twitter.com/elonmusk"
         s = HTMLSession()
         tweets = get_comment_links(s, url)
-        file_path = f"./webscraper/files/twitter_results{str(round(time.time()))}.txt"
+        file_path = f"./files/twitter_results{str(round(time.time()))}.txt"
         with open(file_path, "w", encoding="utf-8") as file:
             file.write("\n---\n".join(tweets))
         end = time.time()

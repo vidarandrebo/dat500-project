@@ -69,7 +69,7 @@ def scrape_fnlondon():
         
         mid = time.time()
         result = asyncio.run(main(urls))
-        file_path = f"./webscraper/files/fnlondon_results{str(round(time.time()))}.txt"
+        file_path = f"./files/fnlondon_results{str(round(time.time()))}.txt"
         with open(file_path, "w", encoding="utf-8") as file:
             file.write("-----\n".join(result))
         end = time.time()
