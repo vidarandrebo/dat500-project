@@ -22,14 +22,20 @@ def get_comment_links(s: HTMLSession, url: str) -> str:
     result.append("END SCRAPED:" + scraped_time)
     return result
 
+def scrape_twitter():
+    print("scraping twitter...")
+    try:
+        start = time.time()
+        url = "https://twitter.com/elonmusk"
+        s = HTMLSession()
+        tweets = get_comment_links(s, url)
+        file_path = f"./webscraper/files/twitter_results{str(round(time.time()))}.txt"
+        with open(file_path, "w", encoding="utf-8") as file:
+            file.write("\n---\n".join(tweets))
+        end = time.time()
+        print(f"\nElapsed: {round(end - start)} s")
+    except Exception as e:
+        print(e)
 
 if __name__ == "__main__":
-    start = time.time()
-    url = "https://twitter.com/elonmusk"
-    s = HTMLSession()
-    tweets = get_comment_links(s, url)
-    with open("results2.txt", "w", encoding="utf-8") as file:
-        file.write("\n---\n".join(tweets))
-    end = time.time()
-    print(f"\nElapsed: {round(end - start)} s")
-
+    scrape_twitter()
